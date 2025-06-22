@@ -1,7 +1,7 @@
 # SnorlaxKeychain
 A blinking and vibrating Snorlax made out of a PCB.
 ## Parts List
-6x 5mm LED
+6x 5mm LED /
 6x 220 Ohm resistor
 1x 4.7k Ohm resistor
 1x 2N3904 transistor (NPN)
