@@ -1,5 +1,5 @@
 # SnorlaxKeychain (Made by @Moritz Prenner on slack :D)
-A blinking and vibrating Snorlax made out of a PCB.
+A blinking and vibrating Snorlax made out of a PCB. When the button gets pressed the lights turn on and the motor vibrates!
 ## Parts List
 6x 5mm LED\
 6x 220 Ohm resistor\
