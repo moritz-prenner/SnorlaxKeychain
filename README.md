@@ -1,4 +1,4 @@
-# SnorlaxKeychain (Made by @Moritz Prenner)
+# SnorlaxKeychain (Made by @Moritz Prenner on slack :D)
 A blinking and vibrating Snorlax made out of a PCB.
 ## Parts List
 6x 5mm LED\
