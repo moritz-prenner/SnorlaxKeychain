@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"220 Ω_6, 220 Ω_5, 220 Ω_4, 220 Ω_3, 220 Ω_2, 220 Ω",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,6,220 Ohm,
+4.7 K Ω,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,"4,7 k Ohm",
+BATTERY MOUNT (CR2032),BatteryHolder_Keystone_3034_1x20mm,1,Battery_Cell,
+BUTTON,SW_PUSH_6mm,1,SW_Push,
+"D1, D2, LED_4, LED_3, LED_2, LED",LED_D5.0mm,6,LED,
+MOTOR,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+NPN,TO-92L_HandSolder,1,BC107,
